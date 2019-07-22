@@ -1,0 +1,65 @@
+{
+    "links": [
+        {
+            "name": "स्तोत्र / मंत्र ",
+            "id": "82",
+            "screen": "stotra"
+        },
+        {
+            "name": "आरती",
+            "id": "1",
+            "screen": "arti"
+        },
+        {
+            "name": "नामावली",
+            "id": "2",
+            "screen": "arti"
+        },
+        {
+            "name": "भजन स्तुती ",
+            "id": "4",
+            "screen": "arti"
+        },
+        {
+            "name": "मुहूर्त",
+            "id": "5",
+            "screen": "arti"
+        },
+        {
+            "name": "व्रत व कथा ",
+            "id": "52",
+            "screen": "arti"
+        },
+        {
+            "name": "सण व उत्सव",
+            "id": "53",
+            "screen": "arti"
+        },
+        {
+            "name": "ग्रंथ पोथी ",
+            "id": "6",
+            "screen": "arti"
+        },
+        {
+            "name": "यज्ञ व शांती ",
+            "id": "7",
+            "screen": "arti"
+        },
+        {
+            "name": "पंचांग",
+            "id": "8",
+            "screen": "arti"
+        },
+        {
+            "name": "ग्रंथालय",
+            "id": "59",
+            "screen": "arti"
+        },
+        {
+            "name": "श्याम जोशी ब्लॉग",
+            "id": "54",
+            "screen": "arti"
+        }
+
+    ]
+}

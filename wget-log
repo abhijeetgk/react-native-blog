@@ -1,0 +1,11 @@
+--2019-07-19 16:28:15--  http://shyamjoshi.org/newsite/wp-json/wp/v2/posts?categories=17
+Resolving shyamjoshi.org (shyamjoshi.org)... 185.201.11.232
+Connecting to shyamjoshi.org (shyamjoshi.org)|185.201.11.232|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [application/json]
+Saving to: ‘posts?categories=17’
+
+posts?categories=17                           [<=>                                                                                   ]       0  --.-KB/s               posts?categories=17                           [ <=>                                                                                  ]  17.87K  58.9KB/s               posts?categories=17                           [  <=>                                                                                 ]  44.73K  73.6KB/s               posts?categories=17                           [   <=>                                                                                ]  78.18K  85.8KB/s               posts?categories=17                           [    <=>                                                                               ] 104.12K  85.6KB/s               posts?categories=17                           [     <=>                                                                              ] 111.21K  91.4KB/s    in 1.2s    
+
+2019-07-19 16:28:17 (91.4 KB/s) - ‘posts?categories=17’ saved [113883]
+
